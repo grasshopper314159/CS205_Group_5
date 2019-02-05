@@ -1,4 +1,8 @@
 #include <stdlib.h>
 
 
-printf("Name: Hannah Hollenback\mYear in School: Junior\nMajor: Computer Science\nWhere I gre up: Superior, MT\nSomething interesting: Nothing interesting\n");
+printf("Name: Hannah Hollenback\n"
+       "Year in School: Junior\n"
+       "Major: Computer Science\n"
+       "Where I grew up: Superior, MT\n"
+       "Something interesting: Nothing interesting\n");

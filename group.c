@@ -6,4 +6,4 @@ printf("Name: Hannah Hollenback\n"
        "Major: Computer Science\n"
        "Where I grew up: Superior, MT\n"
        "Hobbies: Painting, Hiking, Camping\n"
-       "Something interesting: Nothing interesting\n");
+       "Something interesting: I'm the first in my family to go to college\n");

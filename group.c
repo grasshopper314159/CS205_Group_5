@@ -12,7 +12,7 @@ void jason() {
 }
 
 void cody() {
-  printf("\nName: Cody Hill-Boss\n");
+  printf("\nName: Cody Hill-Boss\nYear in school: Junior\n");
 }
 
 void hannah() {

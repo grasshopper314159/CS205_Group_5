@@ -3,22 +3,27 @@
 
 
 
-void josiah() {
-  
+void josiah(void) {
+
 }
 
-void jason() {
-  
+void jason(void) {
+  printf("Jason Haroldson\n");
 }
 
-void cody() {
-  
+void cody(void) {
+
 }
 
-void hannah() {
-  
+void hannah(void) {
+
 }
 
-void nathan() {
-  
+void nathan(void) {
+
+}
+
+int main(void){
+
+  jason();
 }

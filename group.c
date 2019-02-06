@@ -9,6 +9,8 @@ void josiah(void) {
 
 void jason(void) {
   printf("Jason Haroldson\n");
+  printf("3rd year in college");
+  printf("Computer Science Major");
 }
 
 void cody(void) {

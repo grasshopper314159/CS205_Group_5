@@ -1,8 +1,9 @@
+/* Group 5 Assignment for Git
+ *
+ */
+
 #include <stdlib.h>
 #include <stdio.h>
-
-
-
 
 void josiah() {
 
@@ -14,7 +15,7 @@ void jason(void) {
   printf("Computer Science Major\n");
   printf("Hobbies include reading, writing, animals, music\n");
   printf("Grew up in Missoula\n");
-  printf("I'm dyslexic\n");
+  printf("I'm dyslexic\n\n");
 }
 
 void cody() {
@@ -27,26 +28,27 @@ printf("Name: Hannah Hollenback\n"
        "Major: Computer Science\n"
        "Where I grew up: Superior, MT\n"
        "Hobbies: Painting, Hiking, Camping\n"
-       "Something interesting: I'm the first in my family to go to college\n");
+       "Something interesting: I'm the first in my family to go to college\n\n");
 }
 
 void nathan() {
-    printf("Nate Johnson\n
-       Year in School: First year in CS masters (Still Provisional)
-       Major: Computer Science\n
-       Where I grew up: Missoula, MT\n
-       Hobbies: Reading, Biking, cooking\n
-       Something interesting: I was born with an extra set of front teeth.\n");
+    printf("Nate Johnson\n"
+       "Year in School: First year in CS masters\n"
+       "Major: Computer Science\n"
+       "Hometown: Missoula\n"
+       "Hobbies: Reading, biking, cooking\n"
+       "Something interesting: I was born with an extra set of front teeth.\n\n");
 }
 
 
 int main(void){
 
   jason();
-  josaih();
+  josiah();
   cody();
   hannah();
   nathan();
  }
+
 
 

@@ -3,7 +3,8 @@
 
 
 
-void josiah(void) {
+
+void josiah() {
 
 }
 
@@ -16,19 +17,20 @@ void jason(void) {
   printf("I'm dyslexic\n");
 }
 
-void cody(void) {
+void cody() {
+  printf("\nName: Cody Hill-Boss\nYear in school: Junior\nMajor: Computer Science\nHobbies: none (I have no free time)\nWhere you grew up: Springfield Oregon\n\n");
+}
+
+void hannah() {
 
 }
 
-void hannah(void) {
+void nathan() {
 
 }
 
-void nathan(void) {
-
-}
 
 int main(void){
 
   jason();
-}
+ }

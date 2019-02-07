@@ -3,12 +3,18 @@
 
 
 
+
 void josiah() {
 
 }
 
-void jason() {
-
+void jason(void) {
+  printf("Jason Haroldson\n");
+  printf("3rd year in college\n");
+  printf("Computer Science Major\n");
+  printf("Hobbies include reading, writing, animals, music\n");
+  printf("Grew up in Missoula\n");
+  printf("I'm dyslexic\n");
 }
 
 void cody() {
@@ -22,3 +28,9 @@ void hannah() {
 void nathan() {
 
 }
+
+
+int main(void){
+
+  jason();
+ }

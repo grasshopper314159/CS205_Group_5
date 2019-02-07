@@ -22,15 +22,31 @@ void cody() {
 }
 
 void hannah() {
-
+printf("Name: Hannah Hollenback\n"
+       "Year in School: Junior\n"
+       "Major: Computer Science\n"
+       "Where I grew up: Superior, MT\n"
+       "Hobbies: Painting, Hiking, Camping\n"
+       "Something interesting: I'm the first in my family to go to college\n");
 }
 
 void nathan() {
-
+    printf("Nate Johnson\n
+       Year in School: First year in CS masters (Still Provisional)
+       Major: Computer Science\n
+       Where I grew up: Missoula, MT\n
+       Hobbies: Reading, Biking, cooking\n
+       Something interesting: I was born with an extra set of front teeth.\n");
 }
 
 
 int main(void){
 
   jason();
+  josaih();
+  cody();
+  hannah();
+  nathan();
  }
+
+

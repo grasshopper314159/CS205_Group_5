@@ -4,7 +4,8 @@
 
 
 void josiah() {
-  
+printf("Josiah Hamer");
+printf("Junior");  
 }
 
 void jason() {

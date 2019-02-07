@@ -4,8 +4,10 @@
 
 
 void josiah() {
+  
 printf("Josiah Hamer");
-printf("Junior");  
+printf("Junior");
+printf("Computer Science");
 }
 
 void jason() {

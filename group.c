@@ -46,6 +46,12 @@ void nathan() {
 
 
 int main(void){
+  printf("We are Group 5!\n\n"
+          "Josiah Hamer\n"
+          "Jason Haroldson\n"
+          "Cody Hill-Boss\n"
+           "Hannah Hollenback\n"
+          "Nathan Johnson\n\n");
   
   jason();
   josiah();

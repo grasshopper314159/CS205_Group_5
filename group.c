@@ -6,7 +6,11 @@
 #include <stdio.h>
 
 void josiah() {
-
+printf("Josiah Hamer\n");
+printf("Junior\n");
+printf("Computer Science\n");
+printf("Hobbies are gaming, piano, making videos\n");
+printf("From Missoula\n\n");
 }
 
 void jason(void) {
@@ -42,13 +46,12 @@ void nathan() {
 
 
 int main(void){
-
+  
   jason();
   josiah();
   cody();
   hannah();
   nathan();
  }
-
 
 
